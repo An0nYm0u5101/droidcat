@@ -1,9 +1,19 @@
 <xml>
-<application Name="DroidCat" Description="DroidCat is inspired by firecat and aims to be a one stop solution to finding all ethical hacking / information security related application published in android domain.
-This Application is also a part of HaXdroiD suite which aims to empower the Android handset for Penetration Testing purposes."/>
+<application>
+  <name>DroidCat</name>
+  <description>DroidCat is inspired by firecat and aims to be a one stop solution to finding all ethical hacking / information security related application published in android domain.
+This Application is also a part of HaXdroiD suite which aims to empower the Android handset for Penetration Testing purposes.</description>
+  <author>Anant Shrivastava</author>
+  <disclaimer></disclaimer>
+  <about></about>
+  <author_details></author_details>
+  <promotion></promotion>
+</application> 
 <list>
   <app>
     <name></name>
+    <description></description>
+    <notes></notes>
     <section></section>
     <playstore></playstore>
     <amazon></amazon>
